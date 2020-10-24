@@ -1,4 +1,4 @@
-<?php namespace Acaronlex\LaravelCalendar;
+<?php namespace TobiasN\LaravelCalendar;
 
 use DateTime;
 
@@ -7,7 +7,7 @@ use DateTime;
  *
  * Simple DTO that implements the Event interface
  *
- * @package Acaronlex\LaravelCalendar
+ * @package TobiasN\LaravelCalendar
  */
 class SimpleEvent implements IdentifiableEvent
 {

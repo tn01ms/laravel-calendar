@@ -17,16 +17,16 @@
     },
     "autoload": {
         "psr-0": {
-            "Acaronlex\\LaravelCalendar": "src/"
+            "TobiasN\\LaravelCalendar": "src/"
         }
     },
     "extra": {
         "laravel": {
             "providers": [
-                "Acaronlex\\LaravelCalendar\\ServiceProvider"
+                "TobiasN\\LaravelCalendar\\ServiceProvider"
             ],
             "aliases": {
-                "Calendar": "Acaronlex\\LaravelCalendar\\Facades\\Calendar"
+                "Calendar": "TobiasN\\LaravelCalendar\\Facades\\Calendar"
             }
         }
     },

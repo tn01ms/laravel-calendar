@@ -1,4 +1,4 @@
-<?php namespace Acaronlex\LaravelCalendar;
+<?php namespace TobiasN\LaravelCalendar;
 
 use Illuminate\Support\Collection;
 

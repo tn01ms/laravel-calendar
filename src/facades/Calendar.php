@@ -1,4 +1,4 @@
-<?php namespace Acaronlex\LaravelCalendar\Facades;
+<?php namespace TobiasN\LaravelCalendar\Facades;
 
 use Illuminate\Support\Facades\Facade;
 
